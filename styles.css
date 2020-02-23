@@ -1,0 +1,25 @@
+body {
+  background-color: #fcf8e8;
+  }
+
+  hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: red;
+  border-width: 10px;
+  width: 15%;
+  }
+
+  h1 {
+  color: #004445;
+  text-align: center;
+  }
+
+  h3 {
+  color: #4d4646;
+  text-align: center;
+  }
+
+  img {
+  height: 250px;
+}
